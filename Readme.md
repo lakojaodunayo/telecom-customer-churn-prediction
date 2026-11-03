@@ -64,3 +64,36 @@ The dataset may not represent every telecommunications company or customer popul
 
 ## Author
 Student Machine Learning Project
+
+
+## Installation and Usage
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/telecom-customer-churn-prediction.git
+```
+
+Replace `YOUR-USERNAME` with your GitHub username.
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd telecom-customer-churn-prediction
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Notebook
+
+Open the notebook using Jupyter Notebook or Google Colab.
+
+The notebook contains the complete workflow, including data cleaning, exploratory data analysis, preprocessing, model training and evaluation.
+
+### Dataset Access
+
+The project uses the IBM Telco Customer Churn dataset. The dataset is loaded directly from its public GitHub source within the notebook.
